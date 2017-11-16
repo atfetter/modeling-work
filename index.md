@@ -1,4 +1,8 @@
-title: Aaron's Modeling Work
+theme: Jekyll-theme-cayman
+
+title: Aarons Modeling Work
+
+description: This page is a repository of all of my best undergraduate physics modeling. 
 
 
 
