@@ -1,11 +1,3 @@
-theme: Jekyll-theme-cayman
-
-title: Aarons Modeling Work
-
-description: This page is a repository of all of my best undergraduate physics modeling. 
-
-
-
 ## Welcome to Aaron's Modeling Work Page
 
 You can use the [editor on GitHub](https://github.com/atfetter/modeling-work/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
